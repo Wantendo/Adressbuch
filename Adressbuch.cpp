@@ -9,6 +9,12 @@ using namespace std;
 
 int main()
 {
+	int x = 7;
+	int y = 5;
+	if (x > y) {
+		std::cout << "wazzup";
+	}
+	
     return 0;
 }
 
